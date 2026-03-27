@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Interestellar",
-    imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+    titulo: "Resgate",
+    imagem: "Resgate.JPEG",
+    descricao: "Em Bangladesh, o mercenário do mercado negro Tyler Rake luta para sobreviver durante a missão para resgatar o filho sequestrado de um chefe do crime internacional."
     }
     
     ];
@@ -13,9 +13,9 @@ let filmes = [
     let series = [
     
     {
-    titulo: "Stranger Things",
-    imagem: "Imagens/StrangerThings_Filme.jpg",
-    descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
+    titulo: "O Ringue",
+    imagem: "Ringue.JPEG",
+    descricao: "A série acompanha Taylor, um jovem lutador de MMA talentoso que sonha com o profissionalismo, mas luta para ser notado. Para pagar dívidas familiares, ele aceita um confronto perigoso contra um rival violento, Ibrahim, buscando a fama e o cinturão do UFC"
     }
 
     
