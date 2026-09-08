@@ -150,17 +150,17 @@ export const filmes = [
         classificacao: "12 anos",
     },
     {
-        id: "O menino que descobriu o vento",
-        titulo: "O menino que descobriu o vento",
-        imagem: "Imagens/o menino que descobriu o vento.jpg",
-        descricao: "O longa acompanha a emocionante história real de William Kamkwamba, um garoto extraordinariamente curioso e autodidata que vive em um vilarejo rural no Malaui. Quando uma terrível seca destrói as plantações locais, mergulhando sua comunidade e sua família na fome extrema e na miséria, William é forçado a abandonar a escola por falta de pagamento",
-        trailer: "OBprnlpM744?si=WK64VZC_gPrps9M1",
+        id: "Os mercenarios 2",
+        titulo: "Os mercenarios 2",
+        imagem: "Imagens/Os mercenarios.jpg",
+        descricao: "O grupo de mercenários liderado por Barney Ross recebe uma missão aparentemente simples. Porém, tudo muda quando um dos integrantes é brutalmente assassinado pelo perigoso Jean Vilain. Determinados a buscar vingança, os Mercenários se envolvem em uma missão ainda mais perigosa para impedir que Vilain consiga uma grande quantidade de plutônio capaz de produzir armas nucleares",
+        trailer: "RFG-wc23JXo?si=P2F4TXoDaB55UBch",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "1h 53min",
-        genero: "Drama",
-        classificacao: "12 anos",
+        duracao: "1h 42min",
+        genero: "Ação",
+        classificacao: "16 anos",
     },
     {
         id: "7 prisioneiros",
@@ -296,42 +296,7 @@ export const filmes = [
 
     export const series = [
 
-    {
-        titulo: "Stranger Things",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
-        trailer: "ID_YOUTUBE"
-    },
-    {
-        titulo: "Dark",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Dark é uma série focada em viagens no tempo e multiversos.",
-        trailer: "ID_YOUTUBE"
-    },
-    {
-        titulo: "Breaking Bad",
-        imagem: "Imagens/imagem.jpg",
-        descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
-        trailer: "ID_YOUTUBE"
-    },
-    {
-        titulo: "Peaky Blinders",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
-        trailer: "ID_YOUTUBE"
-    },
-    {
-        titulo: "Round 6",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda.",
-        trailer: "ID_YOUTUBE"
-    },
-    {
-        titulo: "Avatar A lenda de Aang",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg.",
-        trailer: "ID_YOUTUBE"
-    },
+
     {
 
         id: "O ringue",
